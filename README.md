@@ -4,6 +4,6 @@
 - Avoid images and other binary files with Git
 - Code shouldn't need explanation
 
-### Most useful software
+### Useful software
 
 Debian GNU/Linux, Xfce, Vim, Firefox, Python, GIMP.
