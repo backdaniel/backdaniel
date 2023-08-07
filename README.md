@@ -6,4 +6,4 @@
 
 ### Useful software
 
-Debian GNU/Linux, Xfce, Vim, Firefox, Python, GIMP.
+Debian GNU/Linux, Xfce, Vim, Python, GIMP.
