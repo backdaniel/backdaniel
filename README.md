@@ -1,10 +1,28 @@
-### Best practices
+### CONTRIBUTING
+```
+Guidelines
 
+- English (ASCII)
 - Tabs for indentation, spaces for alignment
-- Avoid images and other binary files with Git
 - Code shouldn't need explanation
-- Don't use version control for personal projects
 
-### Useful software
+License Agreement
 
-Debian GNU/Linux, Xfce, Vim, Python, GIMP.
+By submitting a contribution, you affirm that you have the necessary rights and
+expressly grant them for licensing under the BSD Zero Clause License (0BSD).
+```
+### LICENSE
+```
+BSD Zero Clause License
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+```
